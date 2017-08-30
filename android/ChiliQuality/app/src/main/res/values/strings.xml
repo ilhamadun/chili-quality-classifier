@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chili Quality</string>
+    <string name="action_settings">Settings</string>
+    <string name="prediction_image">Prediction Image</string>
+</resources>
