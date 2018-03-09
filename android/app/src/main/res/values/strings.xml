@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chili Quality</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="default_color_value">0</string>
+    <string name="vitamin_c">Vitamin C</string>
+    <string name="carotene">Carotene</string>
+</resources>

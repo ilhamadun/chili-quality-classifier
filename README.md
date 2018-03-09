@@ -1,1 +1,1 @@
-chili-quality
+chili-quality-classifier
